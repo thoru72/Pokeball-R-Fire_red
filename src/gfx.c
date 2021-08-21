@@ -327,3 +327,5 @@ void WriteGbaPalette(char *path, struct Palette *palette)
 
 	fclose(fp);
 }
+
+
